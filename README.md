@@ -3,6 +3,8 @@
 ## **Solutions to all the assignment given during Sabbatical leave**
 
 - [X] Assignment 1 Logistic Regression
+- [X] Assignment 1 Linear Regression
+- [ ] Assignment 2 Linear Regression
 - [ ] Assignment 2 SVM
 - [ ] Assignment 3 KNN
 - [ ] Assignment 4 Naive Bayes
