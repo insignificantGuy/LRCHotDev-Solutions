@@ -4,9 +4,9 @@
 
 - [X] Assignment 1 Logistic Regression
 - [X] Assignment 1 Linear Regression
-- [ ] Assignment 2 Linear Regression
-- [ ] Assignment 2 SVM
-- [ ] Assignment 3 KNN
-- [ ] Assignment 4 Naive Bayes
-- [ ] Assignment 5 Decision Tree
-- [ ] Assignment 6 Ensemble Learning
+- [X] Assignment 2 Linear Regression
+- [X] Assignment 1 SVM
+- [ ] Assignment 1 KNN
+- [ ] Assignment 1 Naive Bayes
+- [ ] Assignment 1 Decision Tree
+- [ ] Assignment 1 Ensemble Learning
