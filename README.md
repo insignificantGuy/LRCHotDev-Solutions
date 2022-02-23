@@ -6,7 +6,7 @@
 - [X] Assignment 1 Linear Regression
 - [X] Assignment 2 Linear Regression
 - [X] Assignment 1 SVM
-- [ ] Assignment 1 KNN
+- [X] Assignment 1 KNN
 - [ ] Assignment 1 Naive Bayes
 - [ ] Assignment 1 Decision Tree
 - [ ] Assignment 1 Ensemble Learning
